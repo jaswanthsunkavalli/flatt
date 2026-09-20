@@ -1,0 +1,6 @@
+{
+  "name": "DFA Designer & Diagram Generator",
+  "description": "Construct, simulate, and export publication-ready deterministic finite automata diagrams with Hopcroft minimization, edge bundling, and high-resolution vector export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
